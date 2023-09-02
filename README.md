@@ -1,4 +1,9 @@
 - 👋 Ciao sono @And3e
 - 👀 Sono uno studente di un'istituto informatico
-- 🌱 Sto imparando ad usare html/css/js/react/c++/java/arduino
+- 🌱 Cosa sto imparando:
+  - Full Stack Web Development (React, Vue.js, Next.js, Postgress DB, {PHP})
+  - C++
+  - Java
+  - Arduino
+  - Python
 - 📫 Puoi contattarmi su instagram a @_and3e
