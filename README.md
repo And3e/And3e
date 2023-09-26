@@ -1,9 +1,11 @@
-- 👋 Ciao sono @And3e
-- 👀 Sono uno studente di un'istituto informatico
-- 🌱 Cosa sto imparando:
+- 👋 Hi I'm @And3e
+- 👀 I am a student at a computer institute
+- 🖥️ Working for [Cyberware S.r.l.](https://cyberwaresrl.com/)
+- 🌱 What am I learning:
   - Full Stack Web Development (React, Vue.js, Next.js, Postgress DB, {PHP})
+  - App Development (React Native)
   - C++
   - Java
   - Arduino
   - Python
-- 📫 Puoi contattarmi su instagram a @_and3e
+- 📫 You can contact me on instagram at @_and3e
