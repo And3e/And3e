@@ -10,6 +10,7 @@
   - ➖ **Less known:**
     - Arduino
     - Python
+    - Dart
 - 📫 Contacts:
   - Email: andre.marguerettaz@gmail.com
   - Instragram: [@_and3e](https://www.instagram.com/_and3e/)
